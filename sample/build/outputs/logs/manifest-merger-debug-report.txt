@@ -1,0 +1,109 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml:4:11-56
+	android:versionName
+		INJECTED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml:3:11-57
+	xmlns:android
+		ADDED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml:8:5-30:19
+MERGED from [CloudBackup:library:unspecified] C:\Users\jaikr\AndroidStudioProjects\CloudBackup\library\build\intermediates\bundles\default\AndroidManifest.xml:9:5-13:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\jaikr\.android\build-cache\974df676bfb7599e925bb555591e49ad0e7b833b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\jaikr\.android\build-cache\c42dcb4888ae05d1462a74cca952ddb5583f6555\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\jaikr\.android\build-cache\d6e0047fdc3b4c27e11d128e860a5d84e943e470\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\jaikr\.android\build-cache\dcdddad125f353d612d5c9dd9b5837fddf1d878b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\jaikr\.android\build-cache\d5f8ebf5df994abcd45b86426fe684ae0290ea57\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\jaikr\.android\build-cache\86849fe4549c37ffe8477f9d5be308a19d2940db\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\jaikr\.android\build-cache\15eae965a2e7d2436e97994cea1dff72770cc858\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\jaikr\.android\build-cache\0699b5cab33f4c8625dba205bf33cb5de4d265d1\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\jaikr\.android\build-cache\f95c74686d7573676d53200964e8ea58bb3f534e\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml:11:9-41
+	android:allowBackup
+		ADDED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml:10:9-45
+	android:theme
+		ADDED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml:12:9-53
+activity#net.rdrei.android.dirchooser.sample.DirChooserSample
+ADDED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml:13:19-86
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml:17:27-74
+activity#net.rdrei.android.dirchooser.DirectoryChooserActivity
+ADDED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml:20:9-21:20
+	android:name
+		ADDED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml:20:19-87
+activity#net.rdrei.android.dirchooser.sample.DirChooserFragmentSample
+ADDED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml:23:9-29:20
+	android:label
+		ADDED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml:25:13-45
+	android:parentActivityName
+		ADDED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml:26:13-94
+	tools:ignore
+		ADDED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml:28:13-43
+	android:configChanges
+		ADDED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml:27:13-59
+	android:name
+		ADDED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml:24:13-88
+uses-sdk
+INJECTED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [CloudBackup:library:unspecified] C:\Users\jaikr\AndroidStudioProjects\CloudBackup\library\build\intermediates\bundles\default\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\jaikr\.android\build-cache\974df676bfb7599e925bb555591e49ad0e7b833b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\jaikr\.android\build-cache\c42dcb4888ae05d1462a74cca952ddb5583f6555\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\jaikr\.android\build-cache\d6e0047fdc3b4c27e11d128e860a5d84e943e470\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\jaikr\.android\build-cache\dcdddad125f353d612d5c9dd9b5837fddf1d878b\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\jaikr\.android\build-cache\d5f8ebf5df994abcd45b86426fe684ae0290ea57\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\jaikr\.android\build-cache\86849fe4549c37ffe8477f9d5be308a19d2940db\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\jaikr\.android\build-cache\15eae965a2e7d2436e97994cea1dff72770cc858\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\jaikr\.android\build-cache\0699b5cab33f4c8625dba205bf33cb5de4d265d1\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\jaikr\.android\build-cache\f95c74686d7573676d53200964e8ea58bb3f534e\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\jaikr\.android\build-cache\974df676bfb7599e925bb555591e49ad0e7b833b\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jaikr\AndroidStudioProjects\CloudBackup\sample\src\main\AndroidManifest.xml
+meta-data#string
+ADDED from [CloudBackup:library:unspecified] C:\Users\jaikr\AndroidStudioProjects\CloudBackup\library\build\intermediates\bundles\default\AndroidManifest.xml:10:9-12:38
+	android:value
+		ADDED from [CloudBackup:library:unspecified] C:\Users\jaikr\AndroidStudioProjects\CloudBackup\library\build\intermediates\bundles\default\AndroidManifest.xml:12:13-35
+	android:name
+		ADDED from [CloudBackup:library:unspecified] C:\Users\jaikr\AndroidStudioProjects\CloudBackup\library\build\intermediates\bundles\default\AndroidManifest.xml:11:13-34
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\jaikr\.android\build-cache\974df676bfb7599e925bb555591e49ad0e7b833b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\jaikr\.android\build-cache\c42dcb4888ae05d1462a74cca952ddb5583f6555\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\jaikr\.android\build-cache\d6e0047fdc3b4c27e11d128e860a5d84e943e470\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\jaikr\.android\build-cache\dcdddad125f353d612d5c9dd9b5837fddf1d878b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\jaikr\.android\build-cache\d5f8ebf5df994abcd45b86426fe684ae0290ea57\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\jaikr\.android\build-cache\86849fe4549c37ffe8477f9d5be308a19d2940db\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\jaikr\.android\build-cache\15eae965a2e7d2436e97994cea1dff72770cc858\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\jaikr\.android\build-cache\0699b5cab33f4c8625dba205bf33cb5de4d265d1\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\jaikr\.android\build-cache\f95c74686d7573676d53200964e8ea58bb3f534e\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\jaikr\.android\build-cache\974df676bfb7599e925bb555591e49ad0e7b833b\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\jaikr\.android\build-cache\974df676bfb7599e925bb555591e49ad0e7b833b\output\AndroidManifest.xml:26:9-47

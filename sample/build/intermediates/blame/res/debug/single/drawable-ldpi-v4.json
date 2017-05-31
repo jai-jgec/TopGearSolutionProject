@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\jaikr\\AndroidStudioProjects\\CloudBackup\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\navigation_up.png",
+        "source": "C:\\Users\\jaikr\\AndroidStudioProjects\\CloudBackup\\library\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\navigation_up.png"
+    },
+    {
+        "merged": "C:\\Users\\jaikr\\AndroidStudioProjects\\CloudBackup\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\navigation_up_light.png",
+        "source": "C:\\Users\\jaikr\\AndroidStudioProjects\\CloudBackup\\library\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\navigation_up_light.png"
+    }
+]
