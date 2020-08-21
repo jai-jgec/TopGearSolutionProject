@@ -1,2 +1,2 @@
 # TopGearSolutionProject
-An End point Cloud Backup &amp; Restore solution for Android
+An Endpoint for background service in Android for dynamic File-system changes on the monitored directory
